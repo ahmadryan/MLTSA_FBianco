@@ -2,7 +2,8 @@
 
 # Lists all the git commands required to push the changes to online repository.
 
-git pull
+git pull https://github.com/fedhere/MLTSA_FBianco
+git pull https://github.com/ahmadryan/MLTSA_FBianco
 
 # Remove any python compiled file.
 
@@ -24,4 +25,4 @@ git commit -a
 
 # Push all the files to the GitHub
 
-git push
+git push https://github.com/ahmadryan/MLTSA_FBianco
